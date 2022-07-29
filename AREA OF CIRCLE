@@ -1,0 +1,12 @@
+public class Areacircle {
+    public static void main(String[] args)
+    {
+        int radius;
+       float pi = 3.14, area;
+        radius = 9;
+        // calculating the area of the circle
+        area = pi * radius * radius;
+        // printing the area of the circle
+        System.out.println("Area of circle is :" + area);
+    }
+}
