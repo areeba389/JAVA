@@ -1,0 +1,13 @@
+public class sumproduct {
+
+    public static void main(String[] args)
+    {
+        int firstInt = 49;
+        int secondInt = 30;
+
+        System.out.printf("Sum of two integers: %d", firstInt + secondInt);
+        System.out.printf("Difference of two integers: %d", firstInt - secondInt);
+        System.out.printf("Product of two integers: %d", firstInt * secondInt);
+          
+    }
+    }
