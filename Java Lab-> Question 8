@@ -1,0 +1,31 @@
+//Q8
+
+import java.util.*;
+class factory
+{
+public static void main(String arg[]);
+{
+    
+    float hours;
+    Syestem.out.println("Enter the time take by worker");
+    Scanner sc=new Scanner(System.in);
+    System.out.println("hours")
+    
+    
+    
+     if (hours>=2 && hours<=3)
+   System.out.println("Worker is highly efficent");
+   
+   
+     else  if (hours>=3 && hours<=4)
+   System.out.println("Worker is needed to improve the speed");
+   
+   
+      else if (hours>=4&& hours<=5)
+   System.out.println("Worker needs to be trained");
+   
+       else(hours>5)
+   System.out.println("Worker is terminated");
+   }
+  } 
+    
